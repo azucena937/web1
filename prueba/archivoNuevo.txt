@@ -1,0 +1,4 @@
+Este es un editor llamado nano
+Letra i para insertar
+Esta es otra linea de texto
+
